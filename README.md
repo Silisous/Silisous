@@ -23,10 +23,10 @@
 <h6 align="center"><img width="300" height="250" src="https://github.com/Silis-DoNotCover/Silis-DoNotCover/blob/d71d8e11229d34a2a5363d5791b9b1b4ee488610/Intrests.png" />
 <h3 align="left"> >> Media I Enjoy 
 <h5 align="left"> Roblox > Grace, Phighting, , BlockTales, 99 Nights in The Forest, Depth Spelunking, Dandy's World, Guts & BlackPowder, Dolly's Factory, bee Swarm Sim (OTHER FANS PEASE INT)
-<h5 align="left"> Other> Dead By Daylight, Minecraft, Minecraft ARGs, MineSweeper, Slime Rancher (1&2), OverWatch, Marvel Rivals, UnderTale ([UT]esp AUs!), DeltaRune[DR], Arcane(Show), BoJack Horseman (Show), The Pitt(Show), House MD(Show), Welcome to Demon School Iruma-Kun(Anime/Manga)
+<h5 align="left"> Other > Deadlock, Dead By Daylight, Minecraft, Minecraft ARGs, MineSweeper, Slime Rancher (1&2), OverWatch, Marvel Rivals, UnderTale ([UT]esp AUs!), DeltaRune[DR], Arcane(Show), BoJack Horseman (Show), The Pitt(Show), House MD(Show), Welcome to Demon School Iruma-Kun(Anime/Manga)
 <h3 align="left"> >> Comfort Characters
-<h5 align="left"> Vox (HazbinH), D3rLord3, The King in Yellow (SFAWTDE/DAWTDE), Dozer, Sorrow, Kookoo (Grace), HandPlates!Gaster (UT), Onett (BeeSwarm Sim, Rblx), Saiki (Saiki K.), Shikamaru Naka, Iruka Umino (Naruto), Ballam (Iruma-Kun), Jack Abbot (The Pitt), BoJack Horseman (BoJack Horseman), Viktor, Silco (Arcane)
+<h5 align="left"> Stein (Soul Eater [F/O]), Drifter (DeadLock), Vox (HazbinH), D3rLord3, The King in Yellow (SFAWTDE/DAWTDE), Dozer, Sorrow, Kookoo (Grace), HandPlates!Gaster (UT), Onett (BeeSwarm Sim, Rblx), Saiki (Saiki K.), Shikamaru Naka, Iruka Umino (Naruto), Ballam (Iruma-Kun), Jack Abbot (The Pitt), BoJack Horseman (BoJack Horseman), Viktor, Silco (Arcane)
 <h5 align="left"><details>
 <summary><h3 align="left">>> Kin List</summary>
-Saiki K., Caine, Onett, Ballam, HandPlates!Gster, Sniper, Dyle, Silco, Sorrow, LoLBit, Andrew2002, The King in Yellow, Captain Sweeper
+Saiki K., Caine, Onett, Ballam, HandPlates!Gster, Sniper, Silco, Sorrow, LoLBit, Andrew2002, The King in Yellow, Captain Sweeper, Drifter
 </details>
